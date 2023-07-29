@@ -1,0 +1,5 @@
+/hello/target
+/hello/Cargo.lock
+/hello/Cargo.toml
+/hello/src/*.exe
+/**/*.exe
