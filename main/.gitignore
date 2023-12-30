@@ -1,4 +1,3 @@
 /target
 /src/*.exe
 /Cargo.lock
-/Cargo.toml
